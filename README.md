@@ -2,4 +2,4 @@
 
 An app that generates random cool sounding names and allows the user to save them if desired. 
 
-#My first flutter app
+My first flutter app
